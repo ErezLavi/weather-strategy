@@ -7,6 +7,3 @@
 - https://github.com/IlliniSolarCar/strategy-onboarding?tab=readme-ov-file
 - https://github.com/owentmfoo/dusc_race_strategy_archive
 - https://github.com/henrysg1/solar-race-strategy
-- 
-ignite drive cycle simulation:
-https://www.realis-simulation.com/products/ignite/drive-cycle-simulation/
